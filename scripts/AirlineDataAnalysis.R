@@ -2,3 +2,6 @@
 library("readxl")
 raw_data <- read_excel("./data/SatisfactionSurvey.xlsx")
 
+meanFunc <- function(vector) {
+  return(mean(vector))
+}
