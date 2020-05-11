@@ -1,5 +1,6 @@
 # run install.packages("readxl") if not already installed
 library("readxl")
+library("ggplot2")
 raw_data <- read_excel("./data/SatisfactionSurvey.xlsx")
 
 meanFunc <- function(vector) {
@@ -9,3 +10,4 @@ meanFunc <- function(vector) {
 sdFunc <- function(vector) {
   return(sd(vector))
 }
+
