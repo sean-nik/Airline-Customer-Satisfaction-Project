@@ -1,2 +1,3 @@
-"# Airline-Customer-Satisfaction-Project" 
-# Hello from RStudio 
+# Airline Customer Satisfaction Project
+## Analyze and predict customer satisfaction ratings based on numerous variables.
+*This project is in progress*
