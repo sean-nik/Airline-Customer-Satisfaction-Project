@@ -1,0 +1,270 @@
+"originCity","meanSatisfaction","observationCount","stateAbb","stateName","verboseAddress","lat","lon"
+"Aberdeen, SD",3.53333333333333,15,"SD","south dakota","Aberdeen, south dakota",45.4649805,-98.487813
+"Abilene, TX",3.42424242424242,66,"TX","texas","Abilene, texas",32.44645,-99.7475905
+"Akron, OH",3.25,168,"OH","ohio","Akron, ohio",41.083064,-81.518485
+"Albany, GA",3.45,20,"GA","georgia","Albany, georgia",31.5782062,-84.1556809
+"Albany, NY",3.33928571428571,168,"NY","new york","Albany, new york",42.6511674,-73.754968
+"Albuquerque, NM",3.42424242424242,561,"NM","new mexico","Albuquerque, new mexico",35.0841034,-106.6509851
+"Alexandria, LA",3.38028169014085,71,"LA","louisiana","Alexandria, louisiana",31.311248,-92.4449087
+"Allentown/Bethlehem/Easton, PA",3.1025641025641,39,"PA","pennsylvania","Allentown/Bethlehem/Easton, pennsylvania",40.6511631,-75.442253868383
+"Alpena, MI",3.4,20,"MI","michigan","Alpena, michigan",45.0176181,-83.6670019
+"Amarillo, TX",3.3109756097561,164,"TX","texas","Amarillo, texas",35.2072185,-101.8338246
+"Appleton, WI",3.45283018867925,53,"WI","wisconsin","Appleton, wisconsin",44.2611337,-88.4067604
+"Arcata/Eureka, CA",3.22222222222222,72,"CA","california","Arcata/Eureka, california",40.859464,-124.05534120722
+"Asheville, NC",3.26865671641791,67,"NC","north carolina","Asheville, north carolina",35.6009498,-82.5540161
+"Aspen, CO",3.37383177570093,214,"CO","colorado","Aspen, colorado",39.1911128,-106.8235606
+"Atlanta, GA",3.39700996677741,8428,"GA","georgia","Atlanta, georgia",33.7490987,-84.3901849
+"Augusta, GA",3.62121212121212,66,"GA","georgia","Augusta, georgia",33.4709714,-81.9748429
+"Austin, TX",3.38984881209503,926,"TX","texas","Austin, texas",30.2711286,-97.7436995
+"Bakersfield, CA",3.40449438202247,89,"CA","california","Bakersfield, california",35.3738712,-119.0194639
+"Baltimore, MD",3.35652615540884,1969,"MD","maryland","Baltimore, maryland",39.2908816,-76.610759
+"Bangor, ME",3.5,14,"ME","maine","Bangor, maine",44.8011821,-68.7778138
+"Baton Rouge, LA",3.35858585858586,198,"LA","louisiana","Baton Rouge, louisiana",30.4459596,-91.18738
+"Beaumont/Port Arthur, TX",3.54166666666667,24,"TX","texas","Beaumont/Port Arthur, texas",29.901651,-93.974199
+"Bellingham, WA",3.75,28,"WA","washington","Bellingham, washington",48.7544012,-122.4788361
+"Bemidji, MN",3.76470588235294,17,"MN","minnesota","Bemidji, minnesota",47.4785418,-94.8907869
+"Bend/Redmond, OR",3.40845070422535,71,"OR","oregon","Bend/Redmond, oregon",44.2165084,-121.2150324
+"Billings, MT",3.47435897435897,78,"MT","montana","Billings, montana",45.7874957,-108.49607
+"Birmingham, AL",3.40251572327044,318,"AL","alabama","Birmingham, alabama",33.5206824,-86.8024326
+"Bismarck/Mandan, ND",3.34375,32,"ND","north dakota","Bismarck/Mandan, north dakota",46.8101709,-100.8363564
+"Bloomington/Normal, IL",3.1830985915493,71,"IL","illinois","Bloomington/Normal, illinois",40.508752,-88.9844947
+"Boise, ID",3.35802469135802,243,"ID","idaho","Boise, idaho",43.6166163,-116.200886
+"Boston, MA",3.36636245110821,2301,"MA","massachusetts","Boston, massachusetts",42.3602534,-71.0582912
+"Bozeman, MT",3.37974683544304,79,"MT","montana","Bozeman, montana",45.6794293,-111.0440474
+"Brainerd, MN",3.42857142857143,21,"MN","minnesota","Brainerd, minnesota",46.3580221,-94.2008288
+"Branson, MO",3.125,24,"MO","missouri","Branson, missouri",36.6411357,-93.2175285
+"Bristol/Johnson City/Kingsport, TN",3.27777777777778,54,"TN","tennessee","Bristol/Johnson City/Kingsport, tennessee",36.295107,-82.347083
+"Brownsville, TX",3.22222222222222,45,"TX","texas","Brownsville, texas",25.9140256,-97.4890856
+"Brunswick, GA",3.44444444444444,27,"GA","georgia","Brunswick, georgia",31.1499528,-81.4914894
+"Buffalo, NY",3.38186813186813,364,"NY","new york","Buffalo, new york",42.8867166,-78.8783922
+"Burbank, CA",3.36165577342048,459,"CA","california","Burbank, california",34.1816482,-118.3258554
+"Burlington, VT",3.19298245614035,57,"VT","vermont","Burlington, vermont",44.4762975,-73.2135472
+"Butte, MT",3.35294117647059,17,"MT","montana","Butte, montana",46.0131505,-112.5365089
+"Carlsbad, CA",3.34042553191489,47,"CA","california","Carlsbad, california",33.1580933,-117.3505966
+"Casper, WY",3.38775510204082,49,"WY","wyoming","Casper, wyoming",42.866632,-106.313081
+"Cedar City, UT",3.42857142857143,14,"UT","utah","Cedar City, utah",37.6774238,-113.0618277
+"Cedar Rapids/Iowa City, IA",3.41666666666667,132,"IA","iowa","Cedar Rapids/Iowa City, iowa",41.9758872,-91.6704053
+"Champaign/Urbana, IL",3.14035087719298,57,"IL","illinois","Champaign/Urbana, illinois",40.1157948,-88.241194
+"Charleston, SC",3.39759036144578,249,"SC","south carolina","Charleston, south carolina",32.7876012,-79.9402728
+"Charleston/Dunbar, WV",3.41666666666667,60,"WV","west virginia","Charleston/Dunbar, west virginia",38.3616659,-81.7207214
+"Charlotte, NC",3.4117873651772,2596,"NC","north carolina","Charlotte, north carolina",35.2270869,-80.8431268
+"Charlottesville, VA",3.28571428571429,28,"VA","virginia","Charlottesville, virginia",38.029306,-78.4766781
+"Chattanooga, TN",3.51190476190476,84,"TN","tennessee","Chattanooga, tennessee",35.0457219,-85.3094883
+"Chicago, IL",3.33372595210051,7641,"IL","illinois","Chicago, illinois",41.8755616,-87.6244212
+"Chico, CA",3.47619047619048,21,"CA","california","Chico, california",39.7284945,-121.8374777
+"Cincinnati, OH",3.37299771167048,437,"OH","ohio","Cincinnati, ohio",39.1014537,-84.5124602
+"Cleveland, OH",3.36524822695035,846,"OH","ohio","Cleveland, ohio",41.5051613,-81.6934446
+"Cody, WY",3.5,18,"WY","wyoming","Cody, wyoming",44.5263107,-109.0563923
+"College Station/Bryan, TX",3.40677966101695,59,"TX","texas","College Station/Bryan, texas",30.6349212,-96.3557963
+"Colorado Springs, CO",3.29850746268657,201,"CO","colorado","Colorado Springs, colorado",38.8339578,-104.8253485
+"Columbia, MO",3.27586206896552,29,"MO","missouri","Columbia, missouri",38.951883,-92.3337366
+"Columbia, SC",3.40645161290323,155,"SC","south carolina","Columbia, south carolina",34.0007493,-81.0343313
+"Columbus, GA",3.63636363636364,22,"GA","georgia","Columbus, georgia",32.4609764,-84.9877094
+"Columbus, MS",3.65,20,"MS","mississippi","Columbus, mississippi",33.4956744,-88.4272627
+"Columbus, OH",3.29935275080906,618,"OH","ohio","Columbus, ohio",39.9622601,-83.0007065
+"Corpus Christi, TX",3.35810810810811,148,"TX","texas","Corpus Christi, texas",27.7477253,-97.4014129
+"Crescent City, CA",3.76666666666667,30,"CA","california","Crescent City, california",41.8528065,-124.149861983096
+"Dallas, TX",3.35871559633028,1090,"TX","texas","Dallas, texas",32.7762719,-96.7968559
+"Dallas/Fort Worth, TX",3.3872674791533,6236,"TX","texas","Dallas/Fort Worth, texas",32.737242,-97.232572
+"Dayton, OH",3.32467532467532,231,"OH","ohio","Dayton, ohio",39.7589478,-84.1916069
+"Daytona Beach, FL",3.4468085106383,47,"FL","florida","Daytona Beach, florida",29.2108147,-81.0228331
+"Denver, CO",3.35489086499596,4948,"CO","colorado","Denver, colorado",39.7392364,-104.9848623
+"Des Moines, IA",3.25247524752475,202,"IA","iowa","Des Moines, iowa",41.5910641,-93.6037149
+"Detroit, MI",3.36903690369037,2222,"MI","michigan","Detroit, michigan",42.3315509,-83.0466403
+"Dickinson, ND",3.36363636363636,22,"ND","north dakota","Dickinson, north dakota",46.8791756,-102.7896242
+"Dothan, AL",3.32352941176471,34,"AL","alabama","Dothan, alabama",31.2237434,-85.3933906
+"Dubuque, IA",3.46666666666667,15,"IA","iowa","Dubuque, iowa",42.5006217,-90.6647967
+"Duluth, MN",3.21875,32,"MN","minnesota","Duluth, minnesota",46.7729322,-92.1251218
+"Durango, CO",3.31481481481481,54,"CO","colorado","Durango, colorado",37.2713951,-107.8815978
+"Eagle, CO",3.3804347826087,92,"CO","colorado","Eagle, colorado",39.6161124,-106.7172844
+"Eau Claire, WI",3.27272727272727,22,"WI","wisconsin","Eau Claire, wisconsin",44.811349,-91.4984941
+"El Paso, TX",3.35452322738386,409,"TX","texas","El Paso, texas",31.7754152,-106.4646348
+"Elko, NV",3.42105263157895,19,"NV","nevada","Elko, nevada",41.1958128,-115.3272864
+"Elmira/Corning, NY",3.54838709677419,31,"NY","new york","Elmira/Corning, new york",42.1608441,-76.8919903845347
+"Eugene, OR",3.48484848484848,99,"OR","oregon","Eugene, oregon",44.0505054,-123.0950506
+"Evansville, IN",3.29090909090909,55,"IN","indiana","Evansville, indiana",37.9747645,-87.5558483
+"Fargo, ND",3.25225225225225,111,"ND","north dakota","Fargo, north dakota",46.877229,-96.789821
+"Fayetteville, AR",3.34913793103448,232,"AR","arkansas","Fayetteville, arkansas",36.0625843,-94.1574328
+"Fayetteville, NC",3.20588235294118,34,"NC","north carolina","Fayetteville, north carolina",35.0525759,-78.878292
+"Flagstaff, AZ",3.53333333333333,45,"AZ","arizona","Flagstaff, arizona",35.1987522,-111.6518229
+"Flint, MI",3.36363636363636,99,"MI","michigan","Flint, michigan",43.0161693,-83.6900211
+"Fort Lauderdale, FL",3.34921592279855,1658,"FL","florida","Fort Lauderdale, florida",26.1223084,-80.1433786
+"Fort Myers, FL",3.39911797133407,907,"FL","florida","Fort Myers, florida",26.640628,-81.8723084
+"Fort Smith, AR",3.25490196078431,51,"AR","arkansas","Fort Smith, arkansas",35.3872218,-94.4248983
+"Fort Wayne, IN",3.41558441558442,77,"IN","indiana","Fort Wayne, indiana",41.0799898,-85.1386015
+"Fresno, CA",3.39393939393939,264,"CA","california","Fresno, california",36.7295295,-119.708861260756
+"Gainesville, FL",3.06896551724138,58,"FL","florida","Gainesville, florida",29.6519684,-82.3249846
+"Garden City, KS",3.61111111111111,18,"KS","kansas","Garden City, kansas",37.9716898,-100.8726618
+"Gillette, WY",3.47058823529412,34,"WY","wyoming","Gillette, wyoming",44.290635,-105.501876
+"Grand Island, NE",3.04761904761905,21,"NE","nebraska","Grand Island, nebraska",40.924271,-98.338685
+"Grand Junction, CO",3.35384615384615,65,"CO","colorado","Grand Junction, colorado",39.063956,-108.5507317
+"Grand Rapids, MI",3.38695652173913,230,"MI","michigan","Grand Rapids, michigan",42.9632405,-85.6678639
+"Great Falls, MT",3.28947368421053,38,"MT","montana","Great Falls, montana",47.5048851,-111.2918908
+"Green Bay, WI",3.4639175257732,97,"WI","wisconsin","Green Bay, wisconsin",44.5126379,-88.0125794
+"Greensboro/High Point, NC",3.32335329341317,167,"NC","north carolina","Greensboro/High Point, north carolina",35.989168,-79.961034
+"Greer, SC",3.42592592592593,162,"SC","south carolina","Greer, south carolina",34.9381361,-82.2272119
+"Gulfport/Biloxi, MS",3.38636363636364,88,"MS","mississippi","Gulfport/Biloxi, mississippi",30.40711375,-89.0714330210317
+"Gunnison, CO",3.47368421052632,19,"CO","colorado","Gunnison, colorado",38.6476702,-107.0603126
+"Hancock/Houghton, MI",3.45,20,"MI","michigan","Hancock/Houghton, michigan",47.126871,-88.580956
+"Harlingen/San Benito, TX",3.34939759036145,83,"TX","texas","Harlingen/San Benito, texas",42.201249,-85.706679
+"Harrisburg, PA",3.4,105,"PA","pennsylvania","Harrisburg, pennsylvania",40.2663107,-76.8861122
+"Hartford, CT",3.27402862985685,489,"CT","connecticut","Hartford, connecticut",41.764582,-72.6908547
+"Hayden, CO",3.75471698113208,53,"CO","colorado","Hayden, colorado",40.497128,-107.263355314941
+"Helena, MT",3.35135135135135,37,"MT","montana","Helena, montana",46.5927425,-112.0362771
+"Hibbing, MN",3.4375,16,"MN","minnesota","Hibbing, minnesota",47.427155,-92.937689
+"Hobbs, NM",3,12,"NM","new mexico","Hobbs, new mexico",32.707667,-103.1311314
+"Houston, TX",3.35506317524263,5461,"TX","texas","Houston, texas",29.7589382,-95.3676974
+"Huntsville, AL",3.47260273972603,146,"AL","alabama","Huntsville, alabama",34.729847,-86.5859011
+"Idaho Falls, ID",3.3968253968254,63,"ID","idaho","Idaho Falls, idaho",43.4935245,-112.0400919
+"Indianapolis, IN",3.31770045385779,661,"IN","indiana","Indianapolis, indiana",39.7683331,-86.1583502
+"International Falls, MN",3.4375,16,"MN","minnesota","International Falls, minnesota",48.601049,-93.410982
+"Iron Mountain/Kingsfd, MI",3.06666666666667,15,"MI","michigan","Iron Mountain/Kingsfd, michigan",45.781944,-87.863889
+"Islip, NY",3.29565217391304,115,"NY","new york","Islip, new york",40.7304311,-73.2108618
+"Jackson, WY",3.44285714285714,105,"WY","wyoming","Jackson, wyoming",43.479965,-110.761815
+"Jackson/Vicksburg, MS",3.24120603015075,199,"MS","mississippi","Jackson/Vicksburg, mississippi",32.3530316,-90.8804548
+"Jacksonville, FL",3.29761904761905,504,"FL","florida","Jacksonville, florida",30.3321838,-81.655651
+"Jacksonville/Camp Lejeune, NC",3.58620689655172,29,"NC","north carolina","Jacksonville/Camp Lejeune, north carolina",34.681994,-77.349395
+"Joplin, MO",3.4375,16,"MO","missouri","Joplin, missouri",37.08418,-94.51323
+"Kalamazoo, MI",3.14285714285714,14,"MI","michigan","Kalamazoo, michigan",42.291707,-85.5872286
+"Kalispell, MT",3.36111111111111,36,"MT","montana","Kalispell, montana",48.2022563,-114.3167117
+"Kansas City, MO",3.3686974789916,952,"MO","missouri","Kansas City, missouri",39.100105,-94.5781416
+"Key West, FL",3.38053097345133,113,"FL","florida","Key West, florida",24.5625566,-81.7724368
+"Killeen, TX",3.37007874015748,127,"TX","texas","Killeen, texas",31.1171441,-97.727796
+"Klamath Falls, OR",3.25,12,"OR","oregon","Klamath Falls, oregon",42.224867,-121.7816704
+"Knoxville, TN",3.2962962962963,162,"TN","tennessee","Knoxville, tennessee",35.9603948,-83.9210261
+"La Crosse, WI",3.44444444444444,18,"WI","wisconsin","La Crosse, wisconsin",43.8014053,-91.2395429
+"Lafayette, LA",3.27536231884058,138,"LA","louisiana","Lafayette, louisiana",30.2240897,-92.0198427
+"Lake Charles, LA",3.42,50,"LA","louisiana","Lake Charles, louisiana",30.2265949,-93.2173759
+"Lansing, MI",3.06451612903226,31,"MI","michigan","Lansing, michigan",42.7337712,-84.5553805
+"Laramie, WY",3.23529411764706,17,"WY","wyoming","Laramie, wyoming",41.311367,-105.591101
+"Laredo, TX",3.35849056603774,53,"TX","texas","Laredo, texas",27.5199841,-99.4953764
+"Las Vegas, NV",3.37877312560857,3081,"NV","nevada","Las Vegas, nevada",36.1672559,-115.1485163
+"Lawton/Fort Sill, OK",3.375,24,"OK","oklahoma","Lawton/Fort Sill, oklahoma",34.5698495,-98.4181222990062
+"Lewiston, ID",3.7,10,"ID","idaho","Lewiston, idaho",46.4195913,-117.0216144
+"Lexington, KY",3.39090909090909,110,"KY","kentucky","Lexington, kentucky",38.0464066,-84.4970393
+"Lincoln, NE",3,35,"NE","nebraska","Lincoln, nebraska",40.8088861,-96.7077751
+"Little Rock, AR",3.4,300,"AR","arkansas","Little Rock, arkansas",34.7464809,-92.2895948
+"Long Beach, CA",3.4901185770751,253,"CA","california","Long Beach, california",33.7690164,-118.1916048
+"Longview, TX",3.53333333333333,15,"TX","texas","Longview, texas",32.5007031,-94.74049
+"Los Angeles, CA",3.40251819791462,5083,"CA","california","Los Angeles, california",34.0536909,-118.2427666
+"Louisville, KY",3.40584415584416,308,"KY","kentucky","Louisville, kentucky",38.2542376,-85.759407
+"Lubbock, TX",3.44370860927152,151,"TX","texas","Lubbock, texas",33.5635206,-101.879336
+"Madison, WI",3.53260869565217,184,"WI","wisconsin","Madison, wisconsin",43.074761,-89.3837613
+"Mammoth Lakes, CA",3.125,16,"CA","california","Mammoth Lakes, california",37.6432525,-118.9668509
+"Manchester, NH",3.40740740740741,135,"NH","new hampshire","Manchester, new hampshire",42.9956397,-71.4547891
+"Manhattan/Ft. Riley, KS",3.19512195121951,41,"KS","kansas","Manhattan/Ft. Riley, kansas",39.195769,-96.606307
+"Marquette, MI",3.44444444444444,9,"MI","michigan","Marquette, michigan",46.4481521,-87.6305899
+"Medford, OR",3.33333333333333,72,"OR","oregon","Medford, oregon",42.3264181,-122.8718605
+"Melbourne, FL",3.45,20,"FL","florida","Melbourne, florida",28.0836269,-80.6081089
+"Memphis, TN",3.32173913043478,345,"TN","tennessee","Memphis, tennessee",35.1490215,-90.0516285
+"Miami, FL",3.41024365987071,2011,"FL","florida","Miami, florida",25.7742658,-80.1936589
+"Midland/Odessa, TX",3.4156378600823,243,"TX","texas","Midland/Odessa, texas",31.9631269,-102.2865669
+"Milwaukee, WI",3.34189723320158,759,"WI","wisconsin","Milwaukee, wisconsin",43.0349931,-87.922497
+"Minneapolis, MN",3.40684931506849,2190,"MN","minnesota","Minneapolis, minnesota",44.9772995,-93.2654692
+"Minot, ND",3.23076923076923,26,"ND","north dakota","Minot, north dakota",48.23251,-101.296273
+"Mission/McAllen/Edinburg, TX",3.41121495327103,107,"TX","texas","Mission/McAllen/Edinburg, texas",26.309029,-98.166371
+"Missoula, MT",3.31944444444444,72,"MT","montana","Missoula, montana",46.8701049,-113.9952672
+"Moab, UT",3.6,5,"UT","utah","Moab, utah",38.5738096,-109.5462146
+"Mobile, AL",3.38524590163934,122,"AL","alabama","Mobile, alabama",30.6943566,-88.0430541
+"Modesto, CA",3.28571428571429,21,"CA","california","Modesto, california",37.6390972,-120.9968782
+"Moline, IL",3.5,98,"IL","illinois","Moline, illinois",41.5067003,-90.5151342
+"Monroe, LA",3.38356164383562,73,"LA","louisiana","Monroe, louisiana",32.5093109,-92.1193012
+"Monterey, CA",3.2843137254902,102,"CA","california","Monterey, california",36.2231079,-121.3877428
+"Montgomery, AL",3.36470588235294,85,"AL","alabama","Montgomery, alabama",32.3669656,-86.3006485
+"Montrose/Delta, CO",3.54545454545455,44,"CO","colorado","Montrose/Delta, colorado",38.4305928,-107.8974662
+"Mosinee, WI",3.1875,32,"WI","wisconsin","Mosinee, wisconsin",44.7927298,-89.7035959
+"Muskegon, MI",3,14,"MI","michigan","Muskegon, michigan",43.2341813,-86.2483921
+"Myrtle Beach, SC",3.29166666666667,24,"SC","south carolina","Myrtle Beach, south carolina",33.6956461,-78.8900409
+"Nashville, TN",3.37561779242175,1214,"TN","tennessee","Nashville, tennessee",36.1622296,-86.7743531
+"New Bern/Morehead/Beaufort, NC",3.46153846153846,26,"NC","north carolina","New Bern/Morehead/Beaufort, north carolina",34.722991,-76.653098
+"New Orleans, LA",3.38168724279835,972,"LA","louisiana","New Orleans, louisiana",29.9499323,-90.0701156
+"New York, NY",3.36773321315908,4438,"NY","new york","New York, new york",40.7127281,-74.0060152
+"Newark, NJ",3.34640522875817,2448,"NJ","new jersey","Newark, new jersey",40.735657,-74.1723667
+"Newburgh/Poughkeepsie, NY",3.4,15,"NY","new york","Newburgh/Poughkeepsie, new york",40.687713,-73.710667
+"Newport News/Williamsburg, VA",3.1,50,"VA","virginia","Newport News/Williamsburg, virginia",37.130183,-76.502876
+"Norfolk, VA",3.35,260,"VA","virginia","Norfolk, virginia",36.8462923,-76.2929252
+"North Bend/Coos Bay, OR",3.8,5,"OR","oregon","North Bend/Coos Bay, oregon",43.4065089,-124.2242824
+"Oakland, CA",3.37349397590361,913,"CA","california","Oakland, california",37.8044557,-122.2713563
+"Oklahoma City, OK",3.41002277904328,439,"OK","oklahoma","Oklahoma City, oklahoma",35.4729886,-97.5170536
+"Omaha, NE",3.4412955465587,494,"NE","nebraska","Omaha, nebraska",41.2587459,-95.9383758
+"Ontario, CA",3.36645962732919,483,"CA","california","Ontario, california",34.065846,-117.6484304
+"Orlando, FL",3.40184501845018,2710,"FL","florida","Orlando, florida",28.5421109,-81.3790304
+"Paducah, KY",3.10526315789474,19,"KY","kentucky","Paducah, kentucky",37.0833893,-88.6000478
+"Palm Springs, CA",3.4112426035503,338,"CA","california","Palm Springs, california",33.77217945,-116.495297697851
+"Panama City, FL",3.31578947368421,76,"FL","florida","Panama City, florida",30.1600827,-85.6545729
+"Pasco/Kennewick/Richland, WA",3.53571428571429,56,"WA","washington","Pasco/Kennewick/Richland, washington",46.2369251,-119.0874968
+"Pensacola, FL",3.3027027027027,185,"FL","florida","Pensacola, florida",30.421309,-87.2169149
+"Peoria, IL",3.22222222222222,81,"IL","illinois","Peoria, illinois",40.6938609,-89.5891008
+"Philadelphia, PA",3.37884378843788,1626,"PA","pennsylvania","Philadelphia, pennsylvania",39.9527237,-75.1635262
+"Phoenix, AZ",3.39443277310924,3808,"AZ","arizona","Phoenix, arizona",33.4484367,-112.0741417
+"Pittsburgh, PA",3.39825581395349,688,"PA","pennsylvania","Pittsburgh, pennsylvania",40.4416941,-79.9900861
+"Pocatello, ID",3.25,28,"ID","idaho","Pocatello, idaho",42.8688613,-112.4401098
+"Portland, ME",3.46913580246914,81,"ME","maine","Portland, maine",43.6610277,-70.2548596
+"Portland, OR",3.39480097481722,1231,"OR","oregon","Portland, oregon",45.5202471,-122.6741949
+"Providence, RI",3.49612403100775,258,"RI","rhode island","Providence, rhode island",41.8239891,-71.4128343
+"Raleigh/Durham, NC",3.38152173913043,920,"NC","north carolina","Raleigh/Durham, north carolina",35.88036145,-78.7872382171651
+"Rapid City, SD",3.32258064516129,62,"SD","south dakota","Rapid City, south dakota",44.081176,-103.228006
+"Redding, CA",3.46428571428571,28,"CA","california","Redding, california",40.5863563,-122.3916754
+"Reno, NV",3.41899441340782,358,"NV","nevada","Reno, nevada",39.5261206,-119.8126581
+"Rhinelander, WI",3.34615384615385,26,"WI","wisconsin","Rhinelander, wisconsin",45.636623,-89.412075
+"Richmond, VA",3.33030303030303,330,"VA","virginia","Richmond, virginia",37.5385087,-77.43428
+"Roanoke, VA",3.27659574468085,47,"VA","virginia","Roanoke, virginia",37.2738215,-79.9602021478478
+"Rochester, MN",2.88235294117647,17,"MN","minnesota","Rochester, minnesota",44.0234387,-92.4630182
+"Rochester, NY",3.14893617021277,188,"NY","new york","Rochester, new york",43.157285,-77.615214
+"Rock Springs, WY",3.23684210526316,38,"WY","wyoming","Rock Springs, wyoming",41.5869225,-109.2047867
+"Roswell, NM",3.57894736842105,19,"NM","new mexico","Roswell, new mexico",33.3943282,-104.5229518
+"Sacramento, CA",3.3852544132918,963,"CA","california","Sacramento, california",38.5810606,-121.4938951
+"Saginaw/Bay City/Midland, MI",3.37837837837838,37,"MI","michigan","Saginaw/Bay City/Midland, michigan",43.64321325,-84.2485683429402
+"Salt Lake City, UT",3.45639771801141,2454,"UT","utah","Salt Lake City, utah",40.7596198,-111.8867975
+"San Angelo, TX",3.5,44,"TX","texas","San Angelo, texas",31.4648357,-100.4398442
+"San Antonio, TX",3.33639947437582,761,"TX","texas","San Antonio, texas",29.4246002,-98.4951405
+"San Diego, CA",3.38541666666667,1728,"CA","california","San Diego, california",32.7174209,-117.1627714
+"San Francisco, CA",3.40361111111111,3600,"CA","california","San Francisco, california",37.7790262,-122.4199061
+"San Jose, CA",3.36196319018405,978,"CA","california","San Jose, california",37.3361905,-121.8905833
+"San Luis Obispo, CA",3.31578947368421,114,"CA","california","San Luis Obispo, california",35.3540209,-120.3757163
+"Santa Ana, CA",3.42414174972315,903,"CA","california","Santa Ana, california",33.7494951,-117.8732213
+"Santa Barbara, CA",3.48356807511737,213,"CA","california","Santa Barbara, california",34.4221319,-119.7026673
+"Santa Fe, NM",3.39473684210526,38,"NM","new mexico","Santa Fe, new mexico",35.6869996,-105.9377997
+"Santa Maria, CA",3.18181818181818,33,"CA","california","Santa Maria, california",34.9531295,-120.4358577
+"Sarasota/Bradenton, FL",3.26666666666667,105,"FL","florida","Sarasota/Bradenton, florida",27.39598835,-82.5540742306453
+"Savannah, GA",3.36746987951807,166,"GA","georgia","Savannah, georgia",32.0809263,-81.0911768
+"Scranton/Wilkes-Barre, PA",3.39130434782609,23,"PA","pennsylvania","Scranton/Wilkes-Barre, pennsylvania",41.33709205,-75.7225712292862
+"Seattle, WA",3.4169776119403,2144,"WA","washington","Seattle, washington",47.6038321,-122.3300624
+"Shreveport, LA",3.38028169014085,142,"LA","louisiana","Shreveport, louisiana",32.5221828,-93.7651944
+"Sioux City, IA",3.5,16,"IA","iowa","Sioux City, iowa",42.4966815,-96.4058782
+"Sioux Falls, SD",3.41610738255034,149,"SD","south dakota","Sioux Falls, south dakota",43.5499749,-96.700327
+"South Bend, IN",3.3265306122449,98,"IN","indiana","South Bend, indiana",41.6833813,-86.2500066
+"Spokane, WA",3.38048780487805,205,"WA","washington","Spokane, washington",47.6571934,-117.4235106
+"Springfield, IL",3.36585365853659,41,"IL","illinois","Springfield, illinois",39.7990175,-89.6439575
+"Springfield, MO",3.2972972972973,148,"MO","missouri","Springfield, missouri",37.2166779,-93.2920373
+"St. George, UT",3.65116279069767,43,"UT","utah","St. George, utah",37.104153,-113.5841313
+"St. Louis, MO",3.35714285714286,1120,"MO","missouri","St. Louis, missouri",38.6268039,-90.1994097
+"State College, PA",3.16666666666667,12,"PA","pennsylvania","State College, pennsylvania",40.7944504,-77.8616386
+"Sun Valley/Hailey/Ketchum, ID",3.25,32,"ID","idaho","Sun Valley/Hailey/Ketchum, idaho",43.691476,-114.356891
+"Syracuse, NY",3.30708661417323,127,"NY","new york","Syracuse, new york",43.0481221,-76.1474244
+"Tallahassee, FL",3.38709677419355,124,"FL","florida","Tallahassee, florida",30.4380832,-84.2809332
+"Tampa, FL",3.37894736842105,1615,"FL","florida","Tampa, florida",27.9477595,-82.458444
+"Texarkana, AR",3.5,18,"AR","arkansas","Texarkana, arkansas",33.4254684,-94.0430977
+"Toledo, OH",3.04545454545455,22,"OH","ohio","Toledo, ohio",41.6786754,-83.5127283
+"Topeka, KS",3.1304347826087,23,"KS","kansas","Topeka, kansas",39.049011,-95.677556
+"Traverse City, MI",3.33333333333333,27,"MI","michigan","Traverse City, michigan",44.7606441,-85.6165301
+"Trenton, NJ",3.34883720930233,43,"NJ","new jersey","Trenton, new jersey",40.2170575,-74.7429463
+"Tucson, AZ",3.4279176201373,437,"AZ","arizona","Tucson, arizona",32.2228765,-110.9748477
+"Tulsa, OK",3.41244239631336,434,"OK","oklahoma","Tulsa, oklahoma",36.1556805,-95.9929113
+"Twin Falls, ID",3.5,20,"ID","idaho","Twin Falls, idaho",42.5704456,-114.4602554
+"Tyler, TX",3.47368421052632,57,"TX","texas","Tyler, texas",32.3512601,-95.3010624
+"Valdosta, GA",3.13636363636364,22,"GA","georgia","Valdosta, georgia",30.8327022,-83.2784851
+"Valparaiso, FL",3.3304347826087,115,"FL","florida","Valparaiso, florida",30.5085309,-86.5027282
+"Vernal, UT",3.83333333333333,6,"UT","utah","Vernal, utah",40.4557194,-109.5285373
+"Waco, TX",3.39130434782609,46,"TX","texas","Waco, texas",31.549333,-97.1466695
+"Waterloo, IA",3.3125,16,"IA","iowa","Waterloo, iowa",42.4979693,-92.3329637
+"Watertown, NY",3.16666666666667,12,"NY","new york","Watertown, new york",43.9747838,-75.9107565
+"West Palm Beach/Palm Beach, FL",3.30650154798762,646,"FL","florida","West Palm Beach/Palm Beach, florida",26.715364,-80.0532942
+"White Plains, NY",3.21301775147929,169,"NY","new york","White Plains, new york",41.0339862,-73.7629097
+"Wichita Falls, TX",3.48387096774194,31,"TX","texas","Wichita Falls, texas",33.9137085,-98.4933873
+"Wichita, KS",3.42553191489362,188,"KS","kansas","Wichita, kansas",37.6922361,-97.3375448
+"Williston, ND",3.11111111111111,54,"ND","north dakota","Williston, north dakota",48.1465457,-103.621814
+"Wilmington, DE",2.6,10,"DE","delaware","Wilmington, delaware",39.7459468,-75.546589
+"Wilmington, NC",3.27450980392157,51,"NC","north carolina","Wilmington, north carolina",34.2257282,-77.9447107
+"Worcester, MA",3.1875,16,"MA","massachusetts","Worcester, massachusetts",42.2761217,-71.8058232
+"Yuma, AZ",3.5,72,"AZ","arizona","Yuma, arizona",32.665135,-114.476031572498
