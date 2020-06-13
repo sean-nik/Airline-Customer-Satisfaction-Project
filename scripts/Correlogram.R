@@ -17,7 +17,7 @@ ggcorrplot(corr,
            lab_size = 3, 
            method="circle", 
            colors = c("tomato2", "white", "springgreen3"), 
-           title="Correlogram of mtcars") +
+           title="Correlogram of Airline Data") +
   ggsave("correlogram.png",
          plot = last_plot(),
          path = "./images")

@@ -1,16 +1,25 @@
-# include dependencies
-library(dplyr)
-library(ggplot2)
-library(imputeTS)
-library(tidyr)
-library(reshape2)
-library(grDevices)
-library(readxl)
-# install.packages("naniar")
-library(naniar)
-library(visdat)
-# install.packages("ggcharts")
-library(ggcharts)
+# Load libraries
+# specify the packages of interest
+packages = c("dplyr",
+             "ggplot2",
+             "imputeTS",
+             "tidyr",
+             "reshape2",
+             "grDevices",
+             "readxl",
+             "naniar",
+             "visdat",
+             "ggcharts")
+
+# use this function to check if each package is on the local machine
+# if a package is installed, it will be loaded
+# if any are not, the missing package(s) will be installed and loaded
+package.check <- lapply(packages, FUN = function(x) {
+  if (!require(x, character.only = TRUE)) {
+    install.packages(x, dependencies = TRUE)
+    library(x, character.only = TRUE)
+  }
+})
 
 # read in the data
 raw_data <- read_excel("./data/SatisfactionSurvey.xlsx")
