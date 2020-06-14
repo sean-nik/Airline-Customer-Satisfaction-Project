@@ -68,3 +68,4 @@ df <- data.frame(na_mean(raw_data, option = "median"))
 # verify no NA's remain
 any(is.na(df))
 
+
