@@ -1,5 +1,7 @@
 # Relationship between City of origin and satisfaction
 travelCityDf <- raw_data[,c("Satisfaction","Orgin City","Destination City")]
+length(raw_data$`Orgin City`[raw_data$`Orgin City` == 'NA'])
+length(raw_data$`Destination City`[raw_data$`Destination City` == 'NA'])
 travelCityDf <- na.omit(travelCityDf)
 str(travelCityDf)
 length(unique(travelCityDf$`Orgin City`))
@@ -12,13 +14,13 @@ satisfactionOriginCityDf <- data.frame(originCities,satisfactionOriginCityList,o
 colnames(satisfactionOriginCityDf) <- c("originCity","meanSatisfaction","observationCount")
 sortedByMeanOriginCitySatisfaction <- satisfactionOriginCityDf[order(-satisfactionOriginCityDf$meanSatisfaction),]
 # Best cities to fly from
-head(sortedByMeanOriginCitySatisfaction,10)
+View(head(sortedByMeanOriginCitySatisfaction,10))
 # Worst cities to fly from
-tail(sortedByMeanOriginCitySatisfaction,10)
+View(tail(sortedByMeanOriginCitySatisfaction,10))
 str(satisfactionOriginCityDf)
 ggplot(satisfactionOriginCityDf,aes(x=observationCount,y=meanSatisfaction)) + geom_point() + scale_x_log10() + ggtitle("Mean Satisfaction vs. Number of Recordings Per Departure City") + labs(y="Mean Satisfaction", x = "Number of Recordings Per City")
 sortedByCountOriginCitySatisfaction <- satisfactionOriginCityDf[order(-satisfactionOriginCityDf$observationCount),]
-sortedByCountOriginCitySatisfaction
+View(sortedByCountOriginCitySatisfaction)
 mean(raw_data$Satisfaction,na.rm = TRUE)
 
 library(ggmap)
@@ -105,7 +107,8 @@ satisfactionCityMap <- ggplot(cityMapData, aes(map_id = stateName))
 satisfactionCityMap <- satisfactionCityMap + geom_map(map = us, fill='white',color='black')
 satisfactionCityMap <- satisfactionCityMap + expand_limits(x=us$long,y=us$lat) + coord_map()
 satisfactionCityMap <- satisfactionCityMap + geom_point(data = cityMapData, aes(x=lon,y=lat,color=meanSatisfaction,size=observationCount)) 
-satisfactionCityMap <- satisfactionCityMap + scale_colour_gradient(low="red", high="green") + scale_size(range = c(2,10))
+satisfactionCityMap <- satisfactionCityMap + scale_colour_gradient(low="red", high="green") + scale_size(range = c(4,12))
+satisfactionCityMap <- satisfactionCityMap + ggtitle("Mean Satisfaction by Origin City")
 satisfactionCityMap
 
 
