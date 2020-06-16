@@ -6,6 +6,7 @@ library(readxl)
 
 # satisfactionXL <- read_xlsx("/Users/derekjohnson/Airline-Customer-Satisfaction-Project/Satisfaction Survey(2).xlsx")
 summary(satisfactionXL)
+colnames(satisfactionXL)
 b<- satisfactionXL
 str(b)
 colnames(b)
@@ -90,6 +91,7 @@ airRules3Lift <- airRules3[quality(airRules3)$lift > 1.5]
 summary(airRules3Lift)
 inspect(airRules3Lift)
 plot(airRules3Lift)
+plot(airRules3Lift, method = "graph", control = list(type = "items"))
 
 #fourth apriori
 airRules4 <- apriori(airTrans
@@ -107,9 +109,16 @@ airRules5 <- apriori(airTrans
                      , parameter = list(support=0.15,confidence = 0.85)
                      ,appearance =list(default="lhs"
                                        ,rhs =("Satisfaction=Less Satisfied")))
+airRules5Lift <- airRules5[quality(airRules5)$lift > 1.85]
 
 summary(airRules5)
 inspect(airRules5)
 plot(airRules5)
+plot(airRules5, method = "graph", control = list(type = "items"))
+
+summary(airRules5Lift)
+inspect(airRules5Lift)
+plot(airRules5Lift)
+plot(airRules5Lift, method = "graph", control = list(type = "items"))
 
 
